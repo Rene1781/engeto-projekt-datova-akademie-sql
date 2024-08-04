@@ -1,4 +1,6 @@
-	
+/*
+ * Discord - rene69390
+ */	
 /*
  * TABULKA 1 - Sjednocení mezd a cen potravin v ČR pro společné roky (2006–2018) 
  */
